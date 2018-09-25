@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a862d5e0-bce5-4ed2-9676-5ec834e90f2f" name="Default Changelist" comment="Initial">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="a862d5e0-bce5-4ed2-9676-5ec834e90f2f" name="Default Changelist" comment="Initial" />
     <ignored path="$PROJECT_DIR$/stringcalculator-webservice/target/" />
     <ignored path="$PROJECT_DIR$/stringcalculator/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -106,7 +104,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537880005533" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537880473196" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -177,12 +175,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537867026957</updated>
-      <workItem from="1537867031639" duration="1731000" />
+      <workItem from="1537867031639" duration="1868000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1731000" />
+    <option name="totallyTimeSpent" value="1868000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
